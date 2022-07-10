@@ -1,0 +1,6 @@
+border_width = 1
+margin = 10
+workspace_margin = 10
+default_border_color = "#0A0D0F"
+floating_border_color = "#0A0D0F"
+focused_border_color = "#FFB2AD"
